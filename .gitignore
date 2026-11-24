@@ -1,0 +1,17 @@
+# 仿真产物
+*.out
+*.vcd
+*.fst
+*.log
+sim.out
+wave.vcd
+
+# 编辑器 / 系统
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# 本地笔记
+.workbuddy/
